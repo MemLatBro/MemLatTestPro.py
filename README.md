@@ -82,3 +82,6 @@ Copy your text file with a Zen timings Jpeg and become part of the data pool.
 MemLatBro@gmail.com 
 (Memlatpro at gmail was taken) its MemLat Bro b as in bravo  @gmail
  Ill update this later if this develops enough interest.
+(WARNING)
+My technological Expertise is very low but my ability to understand things through analogy is what got me here engage 
+me in discussion at your own risk. 
