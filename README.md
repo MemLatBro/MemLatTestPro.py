@@ -6,10 +6,9 @@ cache/DRAM latency curves and multi-core loaded latency degradation.
 
 The loaded latency test (Option 5) Attempts to  implement the methodology described in 
 Chester Lam's ["Pushing AMD's Infinity Fabric to its Limits"](https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its) 
-(Chips and Cheese, November 2024), exposing how memory access latency 
-degrades when multiple cores generate simultaneous bandwidth pressure. 
+(Chips and Cheese, November 2024), but I am not sure if I succeeded. 
 Buffer sizes are set as a percentage of cache size  (default 5%) 
-To try to make  results more comparable across CPUs with different L3 sizes.
+to try to make  results more comparable across CPUs with different L3 sizes.
 
 ## My example results: 
 
