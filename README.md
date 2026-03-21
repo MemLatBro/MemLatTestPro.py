@@ -78,7 +78,7 @@ python MemLat_ProExtreme.py --quick  # run Option 1 directly
 ## Contributing
 
 If you run this on different hardware (especially Intel, Zen 5, 
-dual-CCD AMD parts), I would love to see the results. Open an issue or PR with 
+dual-CCD AMD parts), I would love to see the results. 
 Copy your text file with a Zen timings Jpeg and become part of the data pool.
 MemLatBro@gmail.com 
 (Memlatpro at gmail was taken) its MemLat Bro b as in bravo  @gmail
