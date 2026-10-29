@@ -1,3 +1,5 @@
+*****EARLY VERSION US V4 FOR BEST RESULTS*****
+
 # Mem_LatTestPro.py 
 # MemLat Pro — Cache & Memory Latency Profiler with Loaded Latency Testing
 
