@@ -1,6 +1,6 @@
 *****EARLY VERSION USE V4 FOR BEST RESULTS*****
 
-# Mem_LatTestPro.py 
+# Mem_LatTestPro.py (OLD)
 # MemLat Pro — Cache & Memory Latency Profiler with Loaded Latency Testing
 
 A Python-based memory subsystem profiler that measures both single-threaded 
